@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
+![git](https://user-images.githubusercontent.com/119467538/215260819-3a3932d4-8dc5-47c8-9b01-331fd695df79.png)
 <h1 align="center">Hi 👋, I'm Krishan</h1>
 <h3 align="center">A student that trying to be a full-stack software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
