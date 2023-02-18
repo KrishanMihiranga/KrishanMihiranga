@@ -23,3 +23,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanmihiranga&" alt="krishanmihiranga" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanmihiranga&show_icons=true&locale=en&layout=compact" alt="krishanmihiranga" /></p>
