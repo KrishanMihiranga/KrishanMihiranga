@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <img align="left" alt="Coding" width="50" src="https://camo.githubusercontent.com/878033a76fcc614b24fa9596c01b1f731f0807265857e5b0cbed697bf1f2e3c1/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3936393630393034353339383933373730312e6769663f73697a653d3936267175616c6974793d6c6f73736c657373">
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **xp3cto95@gmail.com**
 
