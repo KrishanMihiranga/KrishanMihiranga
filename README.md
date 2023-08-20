@@ -14,7 +14,7 @@ Navigating the crossroads of front-end and back-end web development, I emerge as
 <a href="https://codepen.io/mkrishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mkrishan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishan mihiranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishan mihiranga" height="30" width="40" /></a>
 <a href="https://instagram.com/xxp3cto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxp3cto" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishan mihiranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishan mihiranga" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/krishanM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishan mihiranga" height="30" width="40" /></a>
 <a href="https://discord.gg/Xp3cto#9699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xp3cto#9699" height="30" width="40" /></a>
 </p>
 <br>
