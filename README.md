@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanmihiranga&label=Profile%20views&color=0e75b6&style=flat" alt="krishanmihiranga" /> </p>
 
  ### Welcome to my GitHub profile❗
- I am a dynamic full-stack software developer who harmoniously combines programming acumen with artistic ingenuity. Rooted in a deep passion for crafting digital solutions, I meticulously attend to details while contributing fervently to the open-source community. My expertise resides at the nexus of inventive web development and the art of curating immersive user journeys. Through a synthesis of cutting-edge technologies, I weave interactive and visually captivating experiences, constantly driven by a thirst for innovation. My goal is unwavering: to design seamless, intuitive, and unforgettable digital landscapes that redefine user engagement and push the boundaries of creative technology.
-
+ 
+I am an aspiring full-stack software developer characterized by a dynamic fusion of technical prowess and artistic flair. With an inherent passion for constructing digital solutions, I approach my work with meticulous attention to detail while actively contributing to the open-source community. My proficiency lies at the intersection of innovative web development and the art of crafting immersive user experiences. Through the integration of state-of-the-art technologies, I create interactive and visually captivating digital journeys, fueled by an unrelenting desire for innovation. My ultimate objective remains steadfast: to design seamless, user-friendly digital environments that redefine engagement and push the limits of creative technology. As a student, I am committed to continuous learning and growth in this ever-evolving field.
 ### About Me
 
-Bridging the realms of front-end and back-end web development, I stand as a seasoned professional with a profound skill set. My expertise extends to the creation of responsive, user-centric web applications, underpinned by a strong grasp of UI/UX design principles. My commitment goes beyond the conventional, as I find solace in contributing to open-source initiatives and distilling my insights into illuminating technical articles that explore the intricate nuances of web development and design.
+Navigating the crossroads of front-end and back-end web development, I emerge as a dedicated student with a burgeoning skill set. I'm actively honing my proficiency in crafting responsive, user-driven web applications, deeply rooted in a solid understanding of UI/UX design fundamentals. My enthusiasm extends beyond the classroom, as I immerse myself in open-source projects, contributing to the community, and distilling my evolving knowledge into enlightening technical articles that unravel the complexities of web development and design.
 
 ### 🤞 Connect with me
 
