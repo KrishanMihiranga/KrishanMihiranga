@@ -30,6 +30,7 @@ How to reach me **xp3cto95@gmail.com**
   ![Java](https://img.shields.io/badge/-Java-FF0000?logo=Java&logoColor=white&style=flat)
   
   ![MySQ](https://img.shields.io/badge/-MySQL-6DB33F?logo=MySQL&logoColor=white&style=flat)
+  ![hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat)
 
 ### 🛠️ Tools & Software
 
@@ -38,6 +39,7 @@ How to reach me **xp3cto95@gmail.com**
 
   ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat)
   ![adobepremierepro](https://img.shields.io/badge/-PremierePro-9999FF?logo=adobepremierepro&logoColor=white&style=flat)
+  ![adobeaftereffects](https://img.shields.io/badge/-AfterEffects-9999FF?logo=adobeaftereffects&logoColor=white&style=flat)
   ![blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)
   
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
