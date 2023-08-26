@@ -45,6 +45,8 @@ How to reach me **xp3cto95@gmail.com**
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
   ![Intellij IDEA](https://img.shields.io/badge/-Intellij-000000?logo=intellijidea&logoColor=white&style=flat)
   ![apachenetbeanside](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white&style=flat)
+
+  ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
   
   ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
