@@ -28,9 +28,17 @@ How to reach me **xp3cto95@gmail.com**
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
   ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=Lua&logoColor=white&style=flat)
   ![Java](https://img.shields.io/badge/-Java-FF0000?logo=Java&logoColor=white&style=flat)
+  ![Dart](https://img.shields.io/badge/-Dart-32B8F7?logo=Dart&logoColor=white&style=flat)
   
   ![MySQ](https://img.shields.io/badge/-MySQL-6DB33F?logo=MySQL&logoColor=white&style=flat)
   ![hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+  ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+  ![tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
+ 
 
 ### 🛠️ Tools & Software
 
@@ -45,8 +53,6 @@ How to reach me **xp3cto95@gmail.com**
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
   ![Intellij IDEA](https://img.shields.io/badge/-Intellij-000000?logo=intellijidea&logoColor=white&style=flat)
   ![apachenetbeanside](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white&style=flat)
-
-  ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
   
   ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
