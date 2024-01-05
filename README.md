@@ -1,12 +1,18 @@
 # Hi there, I'm Krishan Mihiranga  <img align="center" alt="Coding" width="40" src="https://camo.githubusercontent.com/878033a76fcc614b24fa9596c01b1f731f0807265857e5b0cbed697bf1f2e3c1/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3936393630393034353339383933373730312e6769663f73697a653d3936267175616c6974793d6c6f73736c657373">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanmihiranga&label=Profile%20views&color=0e75b6&style=flat" alt="krishanmihiranga" /> </p>
 
- ### Welcome to my GitHub profile❗
- 
-I am an aspiring full-stack software developer characterized by a dynamic fusion of technical prowess and artistic flair. With an inherent passion for constructing digital solutions, I approach my work with meticulous attention to detail while actively contributing to the open-source community. My proficiency lies at the intersection of innovative web development and the art of crafting immersive user experiences. Through the integration of state-of-the-art technologies, I create interactive and visually captivating digital journeys, fueled by an unrelenting desire for innovation. My ultimate objective remains steadfast: to design seamless, user-friendly digital environments that redefine engagement and push the limits of creative technology. As a student, I am committed to continuous learning and growth in this ever-evolving field.
-### About Me
+<div align="right" display="flex">
+  
+[![](https://visitcount.itsvg.in/api?id=krishanmihiranga&label=Profile%20Views&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
+  
+</div>
+
+---
+
+### About Me 
 
 Navigating the crossroads of front-end and back-end web development, I emerge as a dedicated student with a burgeoning skill set. I'm actively honing my proficiency in crafting responsive, user-driven web applications, deeply rooted in a solid understanding of UI/UX design fundamentals. My enthusiasm extends beyond the classroom, as I immerse myself in open-source projects, contributing to the community, and distilling my evolving knowledge into enlightening technical articles that unravel the complexities of web development and design.
+
+---
 
 ### 🤞 Connect with me
 
@@ -20,6 +26,8 @@ Navigating the crossroads of front-end and back-end web development, I emerge as
 <br>
 
 How to reach me **xp3cto95@gmail.com**
+
+---
 
 ### 🌐 Skills
 
@@ -38,7 +46,7 @@ How to reach me **xp3cto95@gmail.com**
   ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
   ![tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
- 
+
 
 ### 🛠️ Tools & Software
 
@@ -58,16 +66,37 @@ How to reach me **xp3cto95@gmail.com**
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
  
   ![unrealengine](https://img.shields.io/badge/-Unreal-0E1128?logo=unrealengine&logoColor=white&style=flat)
+ 
+
  ### 🔱 Version Controll
   
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
  
+---
+ 
  ### ✍ Contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanmihiranga&" alt="krishanmihiranga" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanmihiranga&show_icons=true&locale=en&layout=compact" alt="krishanmihiranga" /></p>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KrishanMihiranga&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishanMihiranga&theme=dark&hide_border=false" /> 
+</td>
 
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KrishanMihiranga&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+</p>        
 
  ### ⭕ Other Names
 
