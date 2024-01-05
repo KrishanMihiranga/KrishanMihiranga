@@ -16,29 +16,18 @@
   
 ![](https://komarev.com/ghpvc/?username=KrishanMihiranga&color=blue&style=flat)
   
-</div>
+</div> 
 
+ <p> A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</p>
 
-
-### About Me 
-
-Navigating the crossroads of front-end and back-end web development, I emerge as a dedicated student with a burgeoning skill set. I'm actively honing my proficiency in crafting responsive, user-driven web applications, deeply rooted in a solid understanding of UI/UX design fundamentals. My enthusiasm extends beyond the classroom, as I immerse myself in open-source projects, contributing to the community, and distilling my evolving knowledge into enlightening technical articles that unravel the complexities of web development and design.
-
----
-
-### 🤞 Connect with me
 
 <p align="left">
-<a href="https://codepen.io/mkrishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mkrishan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishan mihiranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishan mihiranga" height="30" width="40" /></a>
-<a href="https://instagram.com/xxp3cto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxp3cto" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishanM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishan mihiranga" height="30" width="40" /></a>
-<a href="https://discord.gg/Xp3cto#9699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xp3cto#9699" height="30" width="40" /></a>
+  
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KrishanMihiranga)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/krishanmb)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mkrishan2003@gmail.com)
 </p>
-<br>
-
-How to reach me **xp3cto95@gmail.com**
-
+ 
 ---
 
 ### 🌐 Skills
@@ -105,7 +94,10 @@ How to reach me **xp3cto95@gmail.com**
 </tr>
 </table>
 
-</p>        
+</p> 
+
+
+
 
 
 
