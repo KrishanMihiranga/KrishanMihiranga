@@ -1,12 +1,24 @@
-# Hi there, I'm Krishan Mihiranga  <img align="center" alt="Coding" width="40" src="https://camo.githubusercontent.com/878033a76fcc614b24fa9596c01b1f731f0807265857e5b0cbed697bf1f2e3c1/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3936393630393034353339383933373730312e6769663f73697a653d3936267175616c6974793d6c6f73736c657373">
+<div align="center">
 
-<div align="right" display="flex">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&random=false&width=451&lines=Hello+It's+me+Krishan!;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>  
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+</div>
+
+
+
+<div align="right">
   
-[![](https://visitcount.itsvg.in/api?id=krishanmihiranga&label=Profile%20Views&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=KrishanMihiranga&color=blue&style=flat)
   
 </div>
 
----
+
 
 ### About Me 
 
@@ -75,35 +87,26 @@ How to reach me **xp3cto95@gmail.com**
  
 ---
  
- ### ✍ Contributions
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KrishanMihiranga&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishanMihiranga&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KrishanMihiranga&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KrishanMihiranga&layout=compact&langs_count=8&theme=dark"/>
   </td>
 </tr>
 </table>
 
 </p>        
 
- ### ⭕ Other Names
-
- - syntaXage.
 
 
-![git](https://user-images.githubusercontent.com/119467538/215260819-3a3932d4-8dc5-47c8-9b01-331fd695df79.png)
 
-
-Thanks for visiting my profile! 😊 Let's connect and collaborate!
