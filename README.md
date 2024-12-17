@@ -34,7 +34,8 @@
 
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+  ![TypeScript](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=flat)
   ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=Lua&logoColor=white&style=flat)
   ![Java](https://img.shields.io/badge/-Java-FF0000?logo=Java&logoColor=white&style=flat)
   ![Dart](https://img.shields.io/badge/-Dart-32B8F7?logo=Dart&logoColor=white&style=flat)
@@ -47,6 +48,11 @@
   ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
   ![tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
+  ![NextJS](https://img.shields.io/badge/-NextJS-000000?logo=nextdotjs&logoColor=white&style=flat)
+  ![Scss](https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=flat)
+  ![Ant Design](https://img.shields.io/badge/-antdesign-0170FE?logo=antdesign&logoColor=white&style=flat)
+  ![shadcnui](https://img.shields.io/badge/-shadcnui-000000?logo=shadcnui&logoColor=white&style=flat)
+  ![redux](https://img.shields.io/badge/-redux-764ABC?logo=redux&logoColor=white&style=flat)
 
 
 ### 🛠️ Tools & Software
